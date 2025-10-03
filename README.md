@@ -1,15 +1,15 @@
-# ytget/yt-downloader Homebrew Tap
+# ytget Homebrew Tap
 
-This is a Homebrew tap for the YT Downloader application.
+This is a Homebrew tap for ytget projects.
 
 ## Installation
 
 ```bash
 # Add the tap
-brew tap ytget/yt-downloader
+brew tap ytget/ytget
 
-# Install the application
-brew install ytget/yt-downloader/yt-downloader
+# Install yt-downloader
+brew install ytget/ytget/yt-downloader
 ```
 
 ## Usage
@@ -24,10 +24,10 @@ yt-downloader
 
 ```bash
 # Uninstall the application
-brew uninstall ytget/yt-downloader/yt-downloader
+brew uninstall ytget/ytget/yt-downloader
 
 # Remove the tap (optional)
-brew untap ytget/yt-downloader
+brew untap ytget/ytget
 ```
 
 ## More Information
